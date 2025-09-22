@@ -1,0 +1,8 @@
+fastapi==0.111.0
+uvicorn[standard]
+pandas>=2.1.0
+pdfplumber
+openai
+faiss-cpu
+python-multipart
+pillow
